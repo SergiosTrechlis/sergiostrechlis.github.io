@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  
+    <title type="text" xml:lang="en">Sergios Trechlis</title>
+    <link type="application/atom+xml" rel="self" href="http://sergiostrechlis.github.io//atom.xml"/>
+  
+  <link href="http://sergiostrechlis.github.io//"/>
+  <id>http://sergiostrechlis.github.io//</id>
+  <updated>2016-01-06T12:27:23Z</updated>
+  <author>
+    <name>Σέργιος Τρεχλής</name>
+    <email>strechlis@gmail.com</email>
+  </author>
+  <rights type="text">Copyright © 2016 Σέργιος Τρεχλής. All rights reserved.</rights>
+  
+
+</feed>
