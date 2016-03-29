@@ -1,1 +1,115 @@
-<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> <url> <loc>http://sergiostrechlis.github.io//</loc> <lastmod>2016-03-29T19:38:51+03:00</lastmod> <changefreq>monthly</changefreq> <priority>1.0</priority> </url> <url> <loc>http://sergiostrechlis.github.io//404</loc> <lastmod>2016-03-29T19:38:51+03:00</lastmod> <changefreq>monthly</changefreq> <priority>0.3</priority> </url> <url> <loc>http://sergiostrechlis.github.io//atom.xml</loc> <lastmod>2016-03-29T19:38:51+03:00</lastmod> <changefreq>monthly</changefreq> <priority>0.3</priority> </url> <url> <loc>http://sergiostrechlis.github.io//pages/blog/</loc> <lastmod>2016-03-29T19:38:51+03:00</lastmod> <changefreq>monthly</changefreq> <priority>0.3</priority> </url> <url> <loc>http://sergiostrechlis.github.io//pages/en/</loc> <lastmod>2016-03-29T19:38:51+03:00</lastmod> <changefreq>monthly</changefreq> <priority>0.3</priority> </url> <url> <loc>http://sergiostrechlis.github.io//pages/fr/</loc> <lastmod>2016-03-29T19:38:51+03:00</lastmod> <changefreq>monthly</changefreq> <priority>0.3</priority> </url> <url> <loc>http://sergiostrechlis.github.io//</loc> <lastmod>2016-03-29T19:38:51+03:00</lastmod> <changefreq>monthly</changefreq> <priority>0.3</priority> </url> <url> <loc>http://sergiostrechlis.github.io//projects</loc> <lastmod>2016-03-29T19:38:51+03:00</lastmod> <changefreq>monthly</changefreq> <priority>0.3</priority> </url> <url> <loc>http://sergiostrechlis.github.io//sitemap.xml</loc> <lastmod>2016-03-29T19:38:51+03:00</lastmod> <changefreq>monthly</changefreq> <priority>0.3</priority> </url> </urlset>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://sergiostrechlis.github.io//</loc>
+    <lastmod>2016-03-29T20:21:52+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  
+  <url>
+    <loc>http://sergiostrechlis.github.io//404</loc>
+    
+      <lastmod>2016-03-29T20:21:52+03:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://sergiostrechlis.github.io//atom.xml</loc>
+    
+      <lastmod>2016-03-29T20:21:52+03:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://sergiostrechlis.github.io//pages/blog/</loc>
+    
+      <lastmod>2016-03-29T20:21:52+03:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://sergiostrechlis.github.io//pages/en/</loc>
+    
+      <lastmod>2016-03-29T20:21:52+03:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://sergiostrechlis.github.io//pages/fr/</loc>
+    
+      <lastmod>2016-03-29T20:21:52+03:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://sergiostrechlis.github.io//</loc>
+    
+      <lastmod>2016-03-29T20:21:52+03:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://sergiostrechlis.github.io//projects</loc>
+    
+      <lastmod>2016-03-29T20:21:52+03:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://sergiostrechlis.github.io//sitemap.xml</loc>
+    
+      <lastmod>2016-03-29T20:21:52+03:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+</urlset>
